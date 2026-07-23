@@ -1,11 +1,13 @@
 # AI reading / watching / listening
 
+This is my personal reading list with auto generated summaries for now. I will update them with personal notes as i go through them. 
+
 ## [AI as Normal Technology](https://www.normaltech.ai/)
-* **Content:** This publication analyzes artificial intelligence as a transformative yet ordinary infrastructure technology rather than hype-driven superintelligence, focusing on its practical societal and policy impacts.
+* **Content:** artificial intelligence as a transformative yet ordinary infrastructure technology rather than hype-driven superintelligence, focusing on its practical societal and policy impacts.
 * **Author:** Written by Sayash Kapoor and Arvind Narayanan, computer science researchers at Princeton University specializing in AI evaluation, governance, and technology accountability.
 
 ## [AI Snake Oil: What Artificial Intelligence Can Do, What It CanÔÇÖt, and How to Tell the Difference](https://www.youtube.com/watch?v=C3TqcUEFR58&t=345s)
-* **Content:** This talk dismantles AI hype by separating proven generative tools from unreliable predictive scoring systems, offering practical frameworks to identify misleading commercial claims.
+* **Content:** This talk dismantles AI hype by separating proven generative tools from unreliable predictive scoring systems, offering practical frameworks to identify misleading commercial claims. Same author as the link above.
 * **Author:** Presented by Arvind Narayanan (Professor of Computer Science at Princeton) and Sayash Kapoor (Princeton PhD candidate), co-authors of the book *AI Snake Oil*.
 
 ## [The twilight of the chatbots](https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots)
