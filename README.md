@@ -2,6 +2,10 @@
 
 This is my personal reading list with auto generated summaries for now. I will update them with personal notes as i go through them. 
 
+### Up to date / News sources:
++ https://digg.com/tech
++ https://arstechnica.com/ai/
+
 ## [AI as Normal Technology](https://www.normaltech.ai/)
 * **Content:** artificial intelligence as a transformative yet ordinary infrastructure technology rather than hype-driven superintelligence, focusing on its practical societal and policy impacts.
 * **Author:** Written by Sayash Kapoor and Arvind Narayanan, computer science researchers at Princeton University specializing in AI evaluation, governance, and technology accountability.
