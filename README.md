@@ -27,7 +27,7 @@ This is my personal reading list with auto generated summaries for now. I will u
 * **Author:** Armin Ronacher is an open-source software developer best known for creating the Flask web framework, the Jinja templating engine, and co-founding Sentry.
 
 ## [Common pitfalls when building generative AI applications](https://huyenchip.com/2025/01/16/ai-engineering-pitfalls.html) 
-* **Content:** This article outlines frequent engineering mistakes made when building generative AI productsÔÇösuch as over-complicating RAG architectures and neglecting evaluation benchmarks along with practical strategies to avoid them.
+* **Content:** This article outlines frequent engineering mistakes made when building generative AI products such as over-complicating RAG architectures and neglecting evaluation benchmarks along with practical strategies to avoid them.
 * **Author:** Chip Huyen is an AI engineer, co-founder of Claypot AI, and author of the industry reference books *Designing Machine Learning Systems* and *Building LLM Applications*.
 
 ## [What I learned building an opinionated and minimal coding agent](https://mariozechner.at/posts/2025-11-30-pi-coding-agent/)
