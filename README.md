@@ -5,6 +5,7 @@ This is my personal reading list with auto generated summaries for now. I will u
 ### Up to date / News sources:
 + https://digg.com/tech
 + https://arstechnica.com/ai/
++  https://www.anthropic.com/news/position-open-weights-models
 
 ## [AI as Normal Technology](https://www.normaltech.ai/)
 * **Content:** artificial intelligence as a transformative yet ordinary infrastructure technology rather than hype-driven superintelligence, focusing on its practical societal and policy impacts.
